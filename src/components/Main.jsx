@@ -1,11 +1,9 @@
 import React from "react";
 import {Text,View, StyleSheet, Image} from 'react-native';
-import logo from 'jikando-app/img/logo.png';
-import Menu from 'jikando-app/src/components/Menu.jsx';
 
 const Main = () => {
     return (
-        <Menu />
+       <Text>hola</Text>
     )
 }
 
